@@ -5,7 +5,7 @@ public class Desafio1 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         // System.out.println("Digite a senha para verificar a força:");
-        String senha = "030609saturno*";
+        String senha = "030609Saturno*";
         // scanner.close();
 
         String resultado = verificarForcaSenha(senha);
