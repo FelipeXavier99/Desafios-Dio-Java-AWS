@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.util.regex.Pattern;
 
-public class Desafio1 {
+public class Desafio1_login_senha {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         // System.out.println("Digite a senha para verificar a força:");
