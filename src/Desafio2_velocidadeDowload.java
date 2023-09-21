@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Desafio2 {
+public class Desafio2_velocidadeDowload {
 
 	public static void main(String[] args) {
 		 Scanner scanner = new Scanner(System.in);
